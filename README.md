@@ -35,6 +35,13 @@ none
 
 Initial release of vscode-open-folder-in-cursor.
 
+### 1.0.1
+
+- Changed display name to "Open Folder In Cursor IDE and VS Code IDE"
+
+
+
+
 
 ---
 
